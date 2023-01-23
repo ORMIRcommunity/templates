@@ -1,6 +1,6 @@
 # ORMIR templates
 
-In this repoository you will find the ORMIR templates for:  
+In this repository you will find the ORMIR templates for:  
 - [Jupyter notebook](https://github.com/ORMIRcommunity/templates/blob/main/ORMIR_nb_template.ipynb)
 - [readme.md](https://github.com/ORMIRcommunity/templates/blob/main/ORMIR_readme_template.md) file for a GitHub repository (work in progress)
 
