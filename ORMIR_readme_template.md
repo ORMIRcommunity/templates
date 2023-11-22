@@ -80,6 +80,12 @@ Version 1.0
   - *As a link to a separate website (see example [here_tbd]())* 
   - *As a combination of the above*
 
+---
+## How to contribute
+- Install as a developer [add link]
+- Make your changes. If you want to coordinate the development with the main mainteners, write to xxx@yyy.com
+- Commit your changes
+- Send a pull request
 
 ---
 ## API documentation
