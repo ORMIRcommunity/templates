@@ -112,6 +112,15 @@ Version 1.0
 - *If you are not familiar with open source licences, you can browse [choosealicense.com](https://choosealicense.com/licenses/), read the paper [A Quick Guide to Software Licensing for the Scientist-Programmer](https://doi.org/10.1371/journal.pcbi.1002598), or watch [this video (from minute 4)](https://www.youtube.com/watch?v=GlAnKGBnhFY)*
 
 ---
+
+## Legal aspects
+- *You can specify your legal aspects. Here is an example:* 
+
+This code is freely available only for research purposes.
+The software has not been certified as a medical device and, therefore, must not be used for diagnostic purposes.
+Commercial use of the provided code and the pre-trained models is strictly prohibited, since they were developed using the medical datasets under restrictive licenses.
+
+---
 ## Acknowledgments
 
 - *Acknowledgments to collaborators and funding agencies*
