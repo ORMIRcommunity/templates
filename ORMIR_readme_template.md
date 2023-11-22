@@ -6,19 +6,18 @@
 
 by [Serena Bonaretti](https://sbonaretti.github.io/), [Donnie Cameron](https://www.linkedin.com/in/donnie-cameron-b76bbb63/?originalSubdomain=uk),  [Michelle Alejandra Espinosa Hernandez](https://www.linkedin.com/in/michelleaespinosah/), [Gianluca Iori](https://github.com/gianthk), 2023  
 Version 1.0
+<br>
+- *In the following, you will find suggestions on how to structure the readme.md file of your GitHub repository*
+- *Instructions are in italics, and you can delete them when using this template*
+- *Feel free to add figures and videos illustrating your package in any section*  
+<br>
 
-- In the following, you will find suggestions on how to structure the readme.md file of your GitHub repository
-- Instructions are in italics, and you can delete them when using this template
-- Also delete this cell after using this template
-- Feel free to add figures and videos illustrating your package in any section
+- *See some `README.md` file examples here*:
+  - [readme1]()  
+  - [readme2]()  
+  - [readme3]()    
 
-
-- See some readme.md file examples here:
-  - [readme1]()
-  - [readme2]()
-  - [readme3]()  
-
-
+- *Delete the lines above when releasing your own `README.md`*
 ---
 ---
 
@@ -83,9 +82,10 @@ Version 1.0
 
 
 ---
-## API reference (?)
-  - making it compulsory as a sanity check for the code documentation - Write how to do it (sphinx, doxygen, doc3)
-  - Nomenclature from here: https://docs.xarray.dev/en/stable/index.html 
+## API documentation
+  - *Guidelines on how to create API documentation in Sphynx here*
+<!--  - making it compulsory as a sanity check for the code documentation - Write how to do it (sphinx, doxygen, doc3)
+  - Nomenclature from here: https://docs.xarray.dev/en/stable/index.html -->
 
 
 <!-- --- 
@@ -114,11 +114,11 @@ Version 1.0
 ---
 
 ## Legal aspects
-- *You can specify your legal aspects. Here is an example:* 
+- *You can specify the legal aspects of your project. Here is an example:* 
 
-This code is freely available only for research purposes.
-The software has not been certified as a medical device and, therefore, must not be used for diagnostic purposes.
-Commercial use of the provided code and the pre-trained models is strictly prohibited, since they were developed using the medical datasets under restrictive licenses.
+> This code is freely available only for research purposes.
+> The software has not been certified as a medical device and, therefore, must not be used for diagnostic purposes.
+> Commercial use of the provided code and the pre-trained models is strictly prohibited, since they were developed using the medical datasets under restrictive licenses.
 
 ---
 ## Acknowledgments
