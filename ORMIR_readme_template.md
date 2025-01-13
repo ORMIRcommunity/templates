@@ -2,15 +2,16 @@
 
 by [Serena Bonaretti](https://sbonaretti.github.io/), [Donnie Cameron](https://www.linkedin.com/in/donnie-cameron-b76bbb63/?originalSubdomain=uk),  [Michelle Alejandra Espinosa Hernandez](https://www.linkedin.com/in/michelleaespinosah/), [Gianluca Iori](https://github.com/gianthk), 2023  
 Version 1.0
-<br>
+
+
 - *In the following, you will find suggestions on how to structure the `README.md` file of your GitHub repository*
 - *Instructions are in italics, and you can delete them when using this template*
 - *Feel free to add figures and videos illustrating your package in any section*  
-<br>
 - *You can find some examples of `README.md` using the ORMIR `README.md` template in the repositories of these packages*:
   - [ORMIR-MIDS](https://github.com/ormir-mids/ormir-mids/blob/main/README.md)  
   - [Ciclope](https://github.com/ciclope-microFE/ciclope/blob/master/README.md)    
 - *Delete this and the lines above when releasing your own `README.md`*
+
 ---
 ---
 
