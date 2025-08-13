@@ -1,6 +1,6 @@
 # Docs
 
-This folder contains 4 subfolders:
+This folder contains 3 subfolders:
 
 - `publication`: where you can the scientific publication
 - `protocols`: where you can add here any protocols you might have written for data acquisition or data processing
