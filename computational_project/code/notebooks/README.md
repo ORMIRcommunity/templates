@@ -1,3 +1,3 @@
 # Notebooks
 
-This subfolder contains the Jupyter notebooks created in your project
+Add here the Jupyter notebooks of the project

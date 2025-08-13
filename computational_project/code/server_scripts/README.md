@@ -1,3 +1,3 @@
 # Server scripts
 
-This subfolder contains the scripts to run your code on a server
+Add here the scripts needed to run the project code on a server

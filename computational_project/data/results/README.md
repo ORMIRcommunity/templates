@@ -1,3 +1,3 @@
 # Results
 
-This subfolder contains all the outputs of the computational workflow, such as tables with aggregative statistics
+Save here the outputs of the computational workflows, i.e., the tables containing aggregative statistics or morphometric analysis

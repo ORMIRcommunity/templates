@@ -1,3 +1,3 @@
 # Paper
 
-This folder contains the document of the publication
+This is the folder for the scientific publication
