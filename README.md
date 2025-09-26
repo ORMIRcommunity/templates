@@ -23,7 +23,7 @@ If you use the material from this repository, please cite as follows:
 
 Bonaretti, S., Cameron, D., Hernandez, M. E., & Iori, G. (2025). ORMIR templates (v1.0). Zenodo. https://doi.org/10.5281/zenodo.17206440
 
-[![DOI](https://zenodo.org/badge/17206440.svg)](https://doi.org/10.5281/zenodo.17206440)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17206440.svg)](https://doi.org/10.5281/zenodo.17206440)
 
 --- 
 ### To do:
