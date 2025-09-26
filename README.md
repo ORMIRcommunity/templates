@@ -18,6 +18,13 @@ These templates are meant to facilitate MSK imaging researchers in working in an
 - Make the changes 
 - Push the changes to the repository
 
+## Citation
+If you use the material from this repository, please cite as follows:
+
+Bonaretti, S., Cameron, D., Hernandez, M. E., & Iori, G. (2025). ORMIR templates (v1.0). Zenodo. https://doi.org/10.5281/zenodo.17206440
+
+[![DOI](https://zenodo.org/badge/17206440.svg)](https://doi.org/10.5281/zenodo.17206440)
+
 --- 
 ### To do:
 - Decide the repository license
