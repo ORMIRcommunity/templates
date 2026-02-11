@@ -122,7 +122,6 @@ You can find the API documentation of [package name] on [Read the Docs]
 
 - *Acknowledgments to collaborators and funding agencies*
 
-
 ---
-
 ReadMe file created using the [template](https://github.com/ORMIRcommunity/templates/blob/main/ORMIR_readme_template.md) of the [ORMIR community](https://www.ormir.org/) (version 1.0, 2023)
+
